@@ -1,0 +1,4 @@
+name: healty-enderdragon
+version: '1.0'
+main: de.punktnetwork.de.healtyEnderdragon.HealtyEnderdragon
+api-version: '1.21'
